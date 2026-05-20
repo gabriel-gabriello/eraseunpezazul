@@ -80,6 +80,7 @@ function crearImagen(ruta)
     imagen.className = "img-fluid imagen-de-galeria";
     imagen.setAttribute("alt", "imagen");
     imagen.setAttribute("src", ruta);
+    imagen.setAttribute("loading", "lazy");
 
     imagen.addEventListener("click", () =>
     {
