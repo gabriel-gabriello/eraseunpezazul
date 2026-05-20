@@ -38,7 +38,7 @@ function generar_imagenes_de_galeria(numero_de_imagenes, publicacion)
 
             numeroDeImagen = (3*i)+j;
             
-            ruta = `img/${publicacion}/${numeroDeImagen}.png`
+            ruta = `img/${publicacion}/${numeroDeImagen}.webp`
 
             imagen = crearImagen(ruta);
 
@@ -63,7 +63,7 @@ function generar_imagenes_de_galeria(numero_de_imagenes, publicacion)
 
         numeroDeImagen = 3*numero_de_filas+i
         
-        ruta = `img/${publicacion}/${numeroDeImagen}.png`
+        ruta = `img/${publicacion}/${numeroDeImagen}.webp`
 
         imagen = crearImagen(ruta);
 
