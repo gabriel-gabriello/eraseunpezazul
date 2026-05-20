@@ -1,0 +1,20 @@
+
+- Cambiar en las paginas html de publicaciones el tamanio de la col de los datos y la columna del proceso a 
+datos: col-4 y proceso: col-7
+
+- Considerar lo del backend y definir las entidades, tambien definir entidades si solo tenemos el frontend
+
+- Cambiar la opcion de "taller de papel artesanal" a "Papel artesanal" en el navbar
+
+- Poner en todas las demas paginas web las url faltantes :/
+
+--- Cosas a hacer que me dijo valeria
+
+- Etilo de texto
+
+- Video de instagram en biografia
+https://www.instagram.com/p/DUf9_KtDd-5/
+
+- Poner el video manuales para sobrevivir
+
+- Fondo de imagen del periquito
